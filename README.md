@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**Shinarc/Shinarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um engenheiro de controle e automação em transição para a área de dados.  
+Aqui você vai encontrar meus projetos com Python, Power BI, Excel e muito mais.
 
-Here are some ideas to get you started:
+🎯 **Objetivo:** Me tornar um analista/cientista/engenheiro de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Projetos em andamento:**  
+- Análise exploratória de dados com Python  
+- Dashboards com Power BI  
+- Limpeza e tratamento de dados no Excel
+
+🚀 Siga meu progresso também em [@transitandodados](https://instagram.com/transitandodados)
