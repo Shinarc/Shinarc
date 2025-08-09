@@ -7,7 +7,6 @@ Aqui você vai encontrar meus projetos com Python, Power BI, Excel e muito mais.
 
 📊 **Projetos em andamento:**  
 - Análise exploratória de dados com Python  
-- Dashboards com Power BI  
-- Limpeza e tratamento de dados no Excel
+- Limpeza e tratamento de dados no SQL
 
 🚀 Siga meu progresso também em [@transitandodados](https://instagram.com/transitandodados)
